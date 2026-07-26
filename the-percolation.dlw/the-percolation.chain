@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1649
+slug  : the-percolation
+seal  : f22bf3ae377b43fd333b7d6fc8bbb298f7ad67b2dea653851edb6c6cb0a96e15
+prev  : 2a7aaef2d7af1bcd6d279558ad7a2d37b78a16de54cc93896d0d855c2dc80edd
+link  : 206453bba1723c336baaadc3f2513844eb73c2b4ce54a9287cc8ebcc825ad9f7
+head  : 206453bba1723c336baaadc3f2513844eb73c2b4ce54a9287cc8ebcc825ad9f7
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
